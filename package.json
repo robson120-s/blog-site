@@ -1,0 +1,20 @@
+{
+  "name": "blog-site",
+  "version": "1.0.0",
+  "description": "Blogger site",
+  "homepage": "https://github.com/robson120-s/blog-site#readme",
+  "bugs": {
+    "url": "https://github.com/robson120-s/blog-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robson120-s/blog-site.git"
+  },
+  "license": "ISC",
+  "author": "Robson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
